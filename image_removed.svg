@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 511.99999 511.99999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="image_removed.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.95507812"
+     inkscape:cx="14.658487"
+     inkscape:cy="297.88139"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     width="512in"
+     objecttolerance="20"
+     inkscape:snap-center="false"
+     inkscape:window-width="1805"
+     inkscape:window-height="857"
+     inkscape:window-x="125"
+     inkscape:window-y="125"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336"
+       spacingx="16"
+       spacingy="16" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.362)">
+    <rect
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3338"
+       width="512"
+       height="512"
+       x="0"
+       y="540.362" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.00000058px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="270.0632"
+       y="694.69513"
+       id="text4148"
+       sodipodi:linespacing="125%"
+       transform="scale(0.94717993,1.0557656)"><tspan
+         sodipodi:role="line"
+         id="tspan4150"
+         x="270.0632"
+         y="694.69513">image</tspan><tspan
+         sodipodi:role="line"
+         x="270.0632"
+         y="802.13263"
+         id="tspan4152">removed</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4154"
+       width="224"
+       height="32"
+       x="272"
+       y="1004.362" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.87273312px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="465.22156"
+       y="957.4704"
+       id="text4156"
+       sodipodi:linespacing="125%"
+       transform="scale(0.92451063,1.0816533)"><tspan
+         sodipodi:role="line"
+         id="tspan4158"
+         x="465.22156"
+         y="957.4704">ckmacleod.com/plugins/</tspan></text>
+  </g>
+</svg>
